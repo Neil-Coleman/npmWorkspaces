@@ -1,5 +1,5 @@
-# pnpmWorkspaces
-pnpm Workspaces sample app
+# npmWorkspaces
+npm Workspaces sample app
 
 Another poc for possible modular app using pnpm workspaces
 
