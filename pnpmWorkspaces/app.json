@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "pnpmWorkspaces",
-    "slug": "pnpmWorkspaces",
+    "name": "npmWorkspaces",
+    "slug": "npmWorkspaces",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
